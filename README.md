@@ -27,9 +27,6 @@ Each folder or file is organized by topic or week, reflecting the progression of
 - File Handling *(optional)*
 - Basic Object-Oriented Programming *(if covered)*
 
-## ✅ How to Use
-
-
 If you have any questions, feedback, or would like to connect, feel free to reach out:
 
 Name: Kar Prabhakar
