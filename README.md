@@ -7,8 +7,6 @@ Welcome to the repository containing my Python programming assignments completed
 Each folder or file is organized by topic or week, reflecting the progression of assignments throughout the training.
 
 
-> *Note: Actual structure may vary based on how assignments are received.*
-
 ## 📌 Objectives
 
 - Strengthen Python fundamentals
@@ -24,8 +22,8 @@ Each folder or file is organized by topic or week, reflecting the progression of
 - Loops (`for`, `while`)
 - Functions and Scope
 - Data Structures: Lists, Tuples, Sets, Dictionaries
-- File Handling *(optional)*
-- Basic Object-Oriented Programming *(if covered)*
+- File Handling 
+- Basic Object-Oriented Programming 
 
 If you have any questions, feedback, or would like to connect, feel free to reach out:
 
